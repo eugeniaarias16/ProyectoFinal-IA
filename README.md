@@ -7,6 +7,8 @@
 ## 📘 Documento del Proyecto Final  
 📎 [Presentación en Google Slides](https://docs.google.com/presentation/d/1PdloXlRW_gGCgJ2dsw3lM4Tx4SPMGqcnyyI30aNNNic/edit?usp=sharing) *(enlace a completar)*
 
+## 🌐 Aplicación en Vivo
+▶️ https://proyectofinal-ia-ayih3wd2jwnk9rl8lxdgbu.streamlit.app/
 ---
 
 ## 🎯 Descripción
