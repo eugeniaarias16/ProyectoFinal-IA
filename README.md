@@ -5,7 +5,7 @@
 # 🐶 DogTrainer AI – Asistente Inteligente para el Entrenamiento de Perros
 
 ## 📘 Documento del Proyecto Final  
-📎 [Presentación en Google Slides](https://docs.google.com/presentation/...) *(enlace a completar)*
+📎 [Presentación en Google Slides](https://docs.google.com/presentation/d/1PdloXlRW_gGCgJ2dsw3lM4Tx4SPMGqcnyyI30aNNNic/edit?usp=sharing) *(enlace a completar)*
 
 ---
 
